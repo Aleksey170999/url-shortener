@@ -1,0 +1,10 @@
+asgiref
+backports.zoneinfo
+certifi
+charset-normalizer
+Django
+idna
+pyshorteners
+requests
+sqlparse
+urllib3
